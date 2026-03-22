@@ -1,5 +1,5 @@
-## My Fork aims to provide support to 32-bit devices, 
-**without** changing any internal code. The only modification is replacing dexkit-android.aar
+## Archived due to support to armv7a and more has been added to the latest update (thanks Dev4Mod ❤️)
+My Fork aims to provide support to 32-bit devices, **without** changing any internal code. The only modification is replacing dexkit-android.aar
 
 For any issues you can report to Dev4Mod's original repo or this one but don't expect a fix. I'll try my best to keep this fork alive.
  ‎ 
